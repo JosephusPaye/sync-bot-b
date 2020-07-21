@@ -1,5 +1,0 @@
-- from: JosephusPaye/syncbot-a@master
-  to: JosephusPaye/syncbot-b@master
-  sync:
-    - samples/**/*.{js,py,java,cpp}: src/reference/
-    - samples/README.md: src/reference/README.txt
